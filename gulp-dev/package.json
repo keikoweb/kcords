@@ -1,0 +1,11 @@
+{
+  "name": "kcords",
+  "version": "1.0.0",
+  "description": "Accessible Wordpress theme Utilizing glex laycuts and modern development",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keiko Ueda",
+  "license": "GPL-3.0"
+}
